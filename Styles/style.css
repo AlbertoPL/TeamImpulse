@@ -1,0 +1,158 @@
+#centered {
+
+position: relative;
+align: center;
+
+}
+
+#body {
+
+position: absolute;
+width: 33.1%;
+left: 27.5%;
+top: 48.6%;
+}
+
+#superheader {
+
+position: absolute;
+left: 4.5%;
+width: 63.6%;
+top: 2.7%;
+
+}
+
+#header {
+
+position: absolute;
+left: 12.5%;
+width: 63.6%;
+top: 7%;
+
+}
+
+#footer {
+
+position: absolute;
+left: 12.3%;
+width: 63.8%%;
+top: 120%;
+
+}
+
+#leftborder {
+
+position: absolute;
+width: 8%;
+left: 4.5%;
+top: 7%
+
+}
+
+#rightborder {
+
+position: absolute;
+width: 15%;
+left: 76.1%;
+top: 7%;
+
+}
+
+#leftnavigation {
+
+position: absolute;
+width: 15.4%;
+left: 12.1%;
+top: 48.4%;
+
+}
+
+#rightnavigation {
+
+position: absolute;
+width: 15.5%;
+left: 60.6%;
+top: 48.4%;
+
+}
+
+#player1 {
+
+position: absolute;
+left: 13%;
+width: 7.3%;
+top: 53%;
+
+}
+
+#player2 {
+
+position: absolute;
+left: 20.2%;
+width: 7.3%;
+top: 53%;
+
+}
+
+#player3 {
+
+position: absolute;
+left: 13%;
+width: 7.3%;
+top: 62.4%;
+
+}
+
+#player4 {
+
+position: absolute;
+left: 20.2%;
+width: 7.3%;
+top: 62.4%;
+
+}
+
+#player5 {
+
+position: absolute;
+left: 13%;
+width: 7.3%;
+top: 71.7%;
+
+}
+
+#player6 {
+
+position: absolute;
+left: 20.2%;
+width: 7.3%;
+top: 71.7%;
+
+}
+
+#player7 {
+
+position: absolute;
+left: 13%;
+width: 7.3%;
+top: 81.1%;
+
+}
+
+#player8 {
+
+position: absolute;
+left: 20.2%;
+width: 7.3%;
+top: 81.1%;
+
+}
+
+#textbox {
+
+position: absolute;
+left: 43.6%;
+top: 34.4%;
+background-color: transparent;
+
+}

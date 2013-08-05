@@ -1,0 +1,313 @@
+#superheader {
+
+position: absolute;
+left: 120px;
+top: 0px;
+
+}
+
+#header {
+
+position: absolute;
+left: 220px;
+top: 35px;
+
+}
+
+#latestnews {
+
+position: absolute;
+left: 220px;
+top: 250px;
+border: 0;
+width: 200px;
+
+}
+
+#memberlogin {
+
+position: absolute;
+left: 487px;
+top: 250px;
+width: 200px;
+
+}
+
+#forgotpass {
+
+position: absolute;
+left: 620px;
+top: 334px;
+width: 100px;
+
+}
+
+#latestmatches {
+
+position: absolute;
+left: 752px;
+top: 250px;
+width: 200px;
+
+}
+
+#more {
+
+position: absolute;
+left: 983px;
+top: 250px;
+width: 15px;
+
+}
+
+#separator {
+
+position: absolute;
+left: 220px;
+top: 354px;
+width: 600px;
+
+}
+
+#topleft {
+
+position: absolute;
+top: 0px;
+left: 0px;
+background-image: url('../Images/TI_bg_filler.png');
+background-repeat: repeat;
+height: 125px;
+width: 125px;
+
+}
+
+#farleftborder{
+
+position: absolute;
+top: 114px;
+left: 0px;
+background-image: url('../Images/TI_bg_filler.png');
+background-repeat: repeat;
+height: 885px;
+
+}
+
+#leftborder {
+
+position: absolute;
+left: 120px;
+top: 35px;
+
+}
+
+#rightborder {
+
+position: absolute;
+left: 1020px;
+top: 35px;
+
+}
+
+#topright {
+
+position: absolute;
+top: 0px;
+left: 1120px;
+background-image: url('../Images/TI_bg_filler.png');
+background-repeat: repeat;
+height: 125px;
+width: 140px;
+
+}
+
+#farrightborder{
+
+position: absolute;
+top: 113px;
+left: 1120px;
+background-image: url('../Images/TI_bg_filler.png');
+background-repeat: repeat;
+height: 885px;
+width: 140px;
+
+}
+
+#leftnavigation {
+
+position: absolute;
+left: 220px;
+top: 369px;
+width: 150px;
+
+}
+
+#rightnavigation {
+
+position: absolute;
+left: 830px;
+top: 369px;
+width: 150px;
+
+}
+
+#player1-image {
+
+position: absolute;
+left: 232px;
+top: 413px;
+
+}
+
+#player1-name {
+
+position: absolute;
+left: 297px;
+top: 409px;
+
+}
+
+#player2-image {
+
+position: absolute;
+left: 322px;
+top: 413px;
+
+}
+
+#player2-name {
+
+position: absolute;
+left: 387px;
+top: 409px;
+
+}
+
+#player3-image {
+
+position: absolute;
+left: 232px;
+top: 489px;
+
+}
+
+#player3-name {
+
+position: absolute;
+left: 297px;
+top: 485px;
+
+}
+
+#player4-image {
+
+position: absolute;
+left: 322px;
+top: 489px;
+
+}
+
+#player4-name {
+
+position: absolute;
+left: 387px;
+top: 485px;
+
+}
+
+#player5-image {
+
+position: absolute;
+left: 232px;
+top: 565px;
+
+}
+
+#player5-name {
+
+position: absolute;
+left: 297px;
+top: 561px;
+
+}
+
+#player6-image {
+
+position: absolute;
+left: 322px;
+top: 565px;
+
+}
+
+#player6-name {
+
+position: absolute;
+left: 387px;
+top: 561px;
+
+}
+
+#player7-image {
+
+position: absolute;
+left: 232px;
+top: 641px;
+
+}
+
+#player7-name {
+
+position: absolute;
+left: 297px;
+top: 637px;
+
+}
+
+#player8-image {
+
+position: absolute;
+left: 322px;
+top: 641px;
+
+}
+
+#player8-name {
+
+position: absolute;
+left: 387px;
+top: 637px;
+
+}
+
+#userbox {
+
+position: absolute;
+left: 616px;
+top: 260px;
+
+}
+
+#passbox {
+position: absolute;
+left: 616px;
+top: 288px;
+
+}
+
+
+#body {
+
+position: absolute;
+left: 409px;
+top: 369px;
+width: 300px;
+overflow: inherit;
+
+}
+
+#footer {
+
+position: absolute;
+left: 220px;
+top: 976px;
+
+}
